@@ -1,15 +1,15 @@
-** Who I am?
+**** Who I am?
 
 I am a *Software Engineer* focused working on projects with a focus on *minimalism* and simplicity.
 
-** What i do know
+**** What i do know
 
 I have experience working with *Elixir*, TypeScript, *React*, and web development technologies in general. I do both backend and frontend development. Currently, I'm expanding my mindset by learning Nix.
 
 I am pretending to being a developer for around 14 years.
 
-** What i do use
-I find myself confortable with Linux systems, specifically my own system configuration, following three core principles:
+**** What i do use
+I find myself confortable with *Linux*, specifically my own system configuration, following three core principles:
 
 - *Minimalism*: Only essential components are included, reducing attack surface and maintenance overhead. Suckless software is something which affascinate me.
 
