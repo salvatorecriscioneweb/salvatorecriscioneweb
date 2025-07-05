@@ -2,16 +2,16 @@
 
 I am a *Software Engineer* focused working on projects with a focus on *minimalism* and simplicity.
 
-**** What I do know
+**** What do I know
 
 I have experience working with *Elixir*, TypeScript, *React*, and web development technologies in general. I do both backend and frontend development. Currently, I'm expanding my mindset by learning Nix.
 
 I am pretending to be a developer for around 14 years.
 
-**** What I do use
-I find myself confortable with *Linux*, specifically my own system configuration, following three core principles:
+**** What do I use
+I find myself comfortable with *Linux*, specifically my own system configuration, following three core principles:
 
-- *Minimalism*: Only essential components are included, reducing attack surface and maintenance overhead. Suckless software is something which affascinate me.
+- *Minimalism*: Only essential components are included, reducing attack surface and maintenance overhead. Suckless software is something which fascinates me.
 
 - *Wayland-native*: Built around modern display protocols for better security and performance.
 
