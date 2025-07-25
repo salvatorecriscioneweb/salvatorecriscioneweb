@@ -9,7 +9,7 @@ I have experience working with *Elixir*, TypeScript, *React*, and web developmen
 I am pretending to be a developer for around 14 years.
 
 **** What do I use
-I find myself comfortable with *Linux*, specifically my own system configuration, following three core principles:
+I find myself comfortable with *Linux*, specifically my own system configuration, following core principles:
 
 - *Minimalism*: Only essential components are included, reducing attack surface and maintenance overhead. Suckless software is something which fascinates me.
 
